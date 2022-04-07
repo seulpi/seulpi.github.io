@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2.화면설계
+title: 3. 데이터 화면 입출력 구현
 subtitle: ★★★ 
 categories: markdown
 tags: [정보처리기사_실기]

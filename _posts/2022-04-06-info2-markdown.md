@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2.화면설계
+title: 2. 화면설계
 subtitle: ★★★ 
 categories: markdown
 tags: [정보처리기사_실기]

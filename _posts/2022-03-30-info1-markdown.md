@@ -1,6 +1,6 @@
 ---
     layout: post
-    title: 1.요구사항 확인
+    title: 1. 요구사항 확인
     subtitle: ★★★ 
     categories: markdown
     tags: [정보처리기사_실기]
