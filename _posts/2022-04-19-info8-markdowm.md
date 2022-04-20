@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 7. SQL 응용
+title: 8. 서버프로그램 구현
 subtitle: ★★★ 
 categories: markdown
 tags: [정보처리기사_실기]
